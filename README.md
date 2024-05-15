@@ -31,7 +31,7 @@ STEP:7 compare the output with truth table.
 ![image](https://github.com/navaneethans/VLSI-LAB-EXP-5/assets/6987778/34ec5d63-2b3b-4511-81ef-99f4572d5869)
 
 
-VERILOG CODE:
+**VERILOG CODE:**
 
 module fsm(clk, rst, x, z);
 
